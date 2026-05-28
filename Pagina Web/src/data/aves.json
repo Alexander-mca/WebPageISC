@@ -1,0 +1,122 @@
+[
+  {
+    "nombre": "Periquito Australiano",
+    "nombre_cientifico": "Melopsittacus undulatus",
+    "descripcion": "Pequeño loro nativo de Australia, muy popular como mascota por su sociabilidad y capacidad para imitar sonidos. Presenta dimorfismo sexual visible en el color de la cera nasal. Existen múltiples variedades de color gracias a la cría selectiva.",
+    "precio": "Q200",
+    "ubicacion": "Australia (origen); distribución mundial en cautiverio",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6QqPHkq06HfAiYdAA4ORzngDy0wiipiv0nSLZHBW4CUWKqZajuxZ8q1PslT4QLehOgW4qjXBh5lLiEaYmyJSVmY_gvsSKjSSq9uYStA&s=10"
+  },
+  {
+    "nombre": "Canario Doméstico",
+    "nombre_cientifico": "Serinus canaria domestica",
+    "descripcion": "Ave de origen español (Islas Canarias) famosa por su canto melodioso. Desde el siglo XVII es apreciada en Europa como ave ornamental y cantora. Los machos son especialmente reconocidos por sus cualidades vocalísticas.",
+    "precio": "Q150",
+    "ubicacion": "Islas Canarias, España (origen); presente mundialmente en cautiverio",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Serinus_canaria_gelb.JPG"
+  },
+  {
+    "nombre": "Ninfa (Cacatúa Carolina)",
+    "nombre_cientifico": "Nymphicus hollandicus",
+    "descripcion": "Psitácida originaria de Australia, perteneciente a la familia de las cacatúas. Se caracteriza por su cresta de plumas y su coloración gris con manchas naranjas en las mejillas. Muy sociable y puede convivir con otras especies de aves.",
+    "precio": "Q300",
+    "ubicacion": "Australia (origen); distribución mundial como mascota",
+    "imagen": "https://www.zooplus.es/magazine/wp-content/uploads/2019/09/fotolia_99446376-768x768.webp"
+  },
+  {
+    "nombre": "Agapornis (Inseparable de Namibia)",
+    "nombre_cientifico": "Agapornis roseicollis",
+    "descripcion": "Loro africano conocido por su fidelidad a la pareja, de ahí su nombre común 'inseparable'. Son muy territoriales y presentan coloraciones variadas según la especie (verde, naranja, amarillo, azul). Requieren interacción constante.",
+    "precio": "Q350",
+    "ubicacion": "África (origen); distribución mundial en cautiverio",
+    "imagen": "https://i0.wp.com/vevico.wordpress.com/wp-content/uploads/2023/02/a-1.jpg?ssl=1"
+  },
+  {
+    "nombre": "Yaco (Loro Gris Africano)",
+    "nombre_cientifico": "Psittacus erithacus",
+    "descripcion": "Loro africano de tamaño medio con plumaje gris y cola roja. Reconocido como uno de los loros más inteligentes, con gran capacidad para imitar el habla humana. Crea vínculos emocionales muy fuertes con sus cuidadores.",
+    "precio": "Q500",
+    "ubicacion": "África Occidental y Central (origen); presente en cautiverio mundial",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlOjwKHu87Hb3clZ4wOTHsPboAWQBa8GA2Ww&s"
+  },
+  {
+    "nombre": "Cacatúa de Moño Amarillo",
+    "nombre_cientifico": "Cacatua sulphurea",
+    "descripcion": "Cacatúa de tamaño mediano con plumaje blanco y cresta amarilla. Originaria de Indonesia, es una mascota popular por su carácter cariñoso y juguetón. Requiere mucha atención y estimulación mental.",
+    "precio": "Q700",
+    "ubicacion": "Indonesia (origen); distribución mundial en cautiverio",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/6/61/Cacatua_galerita_-perching_on_branch_-crest-8a-2c.jpg"
+  },
+  {
+    "nombre": "Guacamayo Azul y Amarillo",
+    "nombre_cientifico": "Ara ararauna",
+    "descripcion": "Gran guacamayo sudamericano con plumaje predominantemente azul y amarillo. Es una de las especies de loros más reconocidas y populares como mascota. Muy sociable, inteligente y necesita mucho espacio y estimulación.",
+    "precio": "Q2000",
+    "ubicacion": "Sudamérica (Amazonas, Bolivia, Brasil); presente en cautiverio mundial",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdhfPl-9efz6FixChFbgs2HT1nOKqLd8Yl5Q&s"
+  },
+  {
+    "nombre": "Cotorra de Kramer (Periquito de Collar)",
+    "nombre_cientifico": "Psittacula krameri",
+    "descripcion": "Cotorra de tamaño mediano originaria de Asia y África, reconocida por el collar negro en los machos adultos. Es una de las cotorras más comunes en cautiverio, adaptable y con capacidad para imitar sonidos.",
+    "precio": "Q750",
+    "ubicacion": "Asia y África (origen); introducida en múltiples países y presente en cautiverio",
+    "imagen": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Psittacula_krameri_-Karnataka%2C_India-8.jpg"
+  },
+  {
+    "nombre": "Periquito Loro (Parrotlet)",
+    "nombre_cientifico": "Forpus coelestis",
+    "descripcion": "Pequeño loro sudamericano, una de las especies de loros más pequeñas del mundo. A pesar de su tamaño, tiene una personalidad valiente y activa. Puede vivir hasta 20 años con cuidados adecuados.",
+    "precio": "Q800",
+    "ubicacion": "Sudamérica (origen); distribución mundial en cautiverio",
+    "imagen": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/159806261/900"
+  },
+  {
+    "nombre": "Jilguero Europeo",
+    "nombre_cientifico": "Carduelis carduelis",
+    "descripcion": "Ave cantora con cabeza característica de colores rojo, blanco y negro. Su canto es similar al del canario pero más silvestre. Es una especie muy apreciada en Europa por su belleza y melodía.",
+    "precio": "Q400",
+    "ubicacion": "Europa, Asia Occidental y Norte de África; presente en cautiverio mundial",
+    "imagen": "https://content.nationalgeographic.com.es/medio/2026/02/06/jilguero-europeo_53512c59_2665115183_260206112803_1280x854.webp"
+  },
+  {
+    "nombre": "Verderón Común",
+    "nombre_cientifico": "Chloris chloris",
+    "descripcion": "Ave de plumaje verde amarillento con capacidad para imitar sonidos de otras aves. La hembra presenta colores más apagados que el macho. Es una especie cantora popular en cautiverio en Europa.",
+    "precio": "Q350",
+    "ubicacion": "Europa, Norte de África y Asia Occidental; presente en cautiverio",
+    "imagen": "https://seo.org/wp-content/uploads/2013/11/F533_Foto_01.jpg"
+  },
+  {
+    "nombre": "Conure Sol",
+    "nombre_cientifico": "Aratinga solstitialis",
+    "descripcion": "Pequeño loro sudamericano con plumaje predominantemente amarillo y naranja. Es una especie muy activa, juguetona y ruidosa. Puede aprender a hablar algunas palabras y realizar trucos.",
+    "precio": "Q800",
+    "ubicacion": "Sudamérica (Guyana, Brasil, Venezuela); presente en cautiverio mundial",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-d3IU5z7RWBwZ1rYOIQcQrRCi_A3EfzpUmg&s"
+  },
+  {
+    "nombre": "Paloma Doméstica (Rola)",
+    "nombre_cientifico": "Streptopelia risoria",
+    "descripcion": "Ave de carácter tranquilo y dócil, ideal para principiantes. Requiere ejercicio fuera de la jaula y es conocida por su suave arrullo. Es una mascota de bajo mantenimiento comparada con los loros.",
+    "precio": "Q150",
+    "ubicacion": "África (origen); distribución mundial en cautiverio",
+    "imagen": "https://celebrateurbanbirds.org//wp-content/uploads/2025/06/308065631-1900px-1280x960.jpg"
+  },
+  {
+    "nombre": "Cacatúa Galah",
+    "nombre_cientifico": "Eolophus roseicapilla",
+    "descripcion": "Cacatúa australiana con plumaje rosa y gris. Es una especie inteligente, cariñosa y muy sociable. Puede aprender a hablar y realizar trucos. Requiere mucha interacción con sus cuidadores.",
+    "precio": "Q2000",
+    "ubicacion": "Australia (origen); presente en cautiverio mundial",
+    "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp5v-7bay8u4EVNjuB45OeiO0D8pk0gdZn7g&s"
+  },
+  {
+    "nombre": "Lorikeet Arcoíris",
+    "nombre_cientifico": "Trichoglossus moluccanus",
+    "descripcion": "Loro australiano de colores vibrantes (verde, azul, naranja, amarillo). Se alimenta principalmente de néctar y fruta. Es muy activo, ruidoso y requiere una dieta especializada rica en líquidos.",
+    "precio": "Q900",
+    "ubicacion": "Australia (origen); presente en cautiverio mundial",
+    "imagen": "https://cdn.download.ams.birds.cornell.edu/api/v2/asset/125941231/900"
+  }
+]
